@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JanHelbling
-- 👀 I’m interested in OpenBSD and Python
-- 🌱 I’m currently learning secure Serversystems
+- 👀 I’m interested in sooo much things
+- 🌱 I’m currently learning Godot
 - 💞️ I’m looking to collaborate on that what i actually want
-- 📫 How to reach me jh@jan-helbling.ch
+- 📫 How to reach me jhelb1993@gmail.com
 
 <!---
 JanHelbling/JanHelbling is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
